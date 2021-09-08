@@ -1,0 +1,8 @@
+Teste
+echo "Turma de Front-End-4" >> README.md
+git init
+git add README.md
+git commit -m "Meu primeiro commit"
+git branch -M main
+git remote add origin https://github.com/Jansen-Killinger-Cara/Front-End-4.git
+git push -u origin main
